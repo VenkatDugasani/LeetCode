@@ -5,7 +5,7 @@ class Solution {
         int startIndex = -1;
         int endIndex = -1;
         while(start <= end){
-            int mid = start + (end - start) / 2;
+            int mid = start + (end - start)/2;
             if(nums[mid] < target){
                 start = mid + 1;
             }
@@ -17,19 +17,19 @@ class Solution {
             startIndex = start;
         }
         else{
-            return new int[]{startIndex,endIndex};
+            return new int[]{startIndex, endIndex};
         }
-        end = nums.length -1;
+        end = nums.length - 1;
         while(start <= end){
             int mid = start + (end - start)/2;
-            if(nums[mid] == target){
-                start = mid + 1;
-            }
-            else{
+            if(nums[mid] > target){
                 end = mid - 1;
             }
+            else{
+                start = mid + 1;
+            }
         }
-        endIndex = end;
+        endIndex = end ;
         return new int[]{startIndex, endIndex};
     }
 }
