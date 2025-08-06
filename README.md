@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/VenkatDugasani/LeetCode/tree/master/0162-find-peak-element) |
 | [1185-find-in-mountain-array](https://github.com/VenkatDugasani/LeetCode/tree/master/1185-find-in-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/VenkatDugasani/LeetCode/tree/master/0162-find-peak-element) |
 | [1185-find-in-mountain-array](https://github.com/VenkatDugasani/LeetCode/tree/master/1185-find-in-mountain-array) |
 ## Interactive
 |  |
