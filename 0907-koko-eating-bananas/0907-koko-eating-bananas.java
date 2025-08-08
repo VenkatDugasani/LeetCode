@@ -5,9 +5,9 @@ class Solution {
 
         while(startK <= endK){
             int midK = startK + (endK - startK) / 2;
-            int hrs = 0;
-            for(int i : piles){
-                hrs += Math.ceil(i * 1.0 / midK);
+            long hrs = 0;
+            for(int p : piles){
+                hrs += (p + midK -1) / midK;
             }
             if(hrs > h){
                 startK = midK + 1;
