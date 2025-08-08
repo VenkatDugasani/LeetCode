@@ -7,7 +7,8 @@ class Solution {
             int midK = startK + (endK - startK) / 2;
             long hrs = 0;
             for(int p : piles){
-                hrs += (p + midK -1) / midK;
+                hrs += (p + midK -1) / midK; 
+                //we can use this too Math.ceil(p * 1.0 / midK)
             }
             if(hrs > h){
                 startK = midK + 1;
