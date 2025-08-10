@@ -15,7 +15,7 @@ class Solution {
 
         helper(nums, i + 1, slate); //Exclude case
 
-        slate.add(nums[i]);
+        slate.add(nums[i]);// Include case
         helper(nums, i + 1, slate);
         slate.remove(slate.size() - 1);
     }
