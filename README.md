@@ -106,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/VenkatDugasani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## String
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/VenkatDugasani/LeetCode/tree/master/0800-letter-case-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/VenkatDugasani/LeetCode/tree/master/0800-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/VenkatDugasani/LeetCode/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
