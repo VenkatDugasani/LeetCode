@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/VenkatDugasani/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/VenkatDugasani/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/VenkatDugasani/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VenkatDugasani/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VenkatDugasani/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/VenkatDugasani/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/VenkatDugasani/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/VenkatDugasani/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/VenkatDugasani/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/VenkatDugasani/LeetCode/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/VenkatDugasani/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
