@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/VenkatDugasani/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1185-find-in-mountain-array](https://github.com/VenkatDugasani/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VenkatDugasani/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2529-range-product-queries-of-powers](https://github.com/VenkatDugasani/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/VenkatDugasani/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2529-range-product-queries-of-powers](https://github.com/VenkatDugasani/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VenkatDugasani/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VenkatDugasani/LeetCode/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/VenkatDugasani/LeetCode/tree/master/0800-letter-case-permutation) |
+| [2529-range-product-queries-of-powers](https://github.com/VenkatDugasani/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
 | ------- |
