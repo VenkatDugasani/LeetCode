@@ -114,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/VenkatDugasani/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0800-letter-case-permutation](https://github.com/VenkatDugasani/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/VenkatDugasani/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/VenkatDugasani/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VenkatDugasani/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/VenkatDugasani/LeetCode/tree/master/0078-subsets) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VenkatDugasani/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VenkatDugasani/LeetCode/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/VenkatDugasani/LeetCode/tree/master/0800-letter-case-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/VenkatDugasani/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
