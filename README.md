@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VenkatDugasani/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0410-split-array-largest-sum](https://github.com/VenkatDugasani/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/VenkatDugasani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0907-koko-eating-bananas](https://github.com/VenkatDugasani/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/VenkatDugasani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkatDugasani/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/VenkatDugasani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
