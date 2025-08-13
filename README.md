@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VenkatDugasani/LeetCode/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/VenkatDugasani/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/VenkatDugasani/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/VenkatDugasani/LeetCode/tree/master/0441-arranging-coins) |
 | [1014-k-closest-points-to-origin](https://github.com/VenkatDugasani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VenkatDugasani/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/VenkatDugasani/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
