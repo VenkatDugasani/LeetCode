@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VenkatDugasani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0907-koko-eating-bananas](https://github.com/VenkatDugasani/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0948-sort-an-array) |
+| [0965-unique-email-addresses](https://github.com/VenkatDugasani/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/VenkatDugasani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/VenkatDugasani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VenkatDugasani/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkatDugasani/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0800-letter-case-permutation](https://github.com/VenkatDugasani/LeetCode/tree/master/0800-letter-case-permutation) |
+| [0965-unique-email-addresses](https://github.com/VenkatDugasani/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VenkatDugasani/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Backtracking
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkatDugasani/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0457-circular-array-loop](https://github.com/VenkatDugasani/LeetCode/tree/master/0457-circular-array-loop) |
+| [0965-unique-email-addresses](https://github.com/VenkatDugasani/LeetCode/tree/master/0965-unique-email-addresses) |
 ## Sliding Window
 |  |
 | ------- |
