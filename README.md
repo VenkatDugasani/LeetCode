@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VenkatDugasani/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/VenkatDugasani/LeetCode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/VenkatDugasani/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/VenkatDugasani/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/VenkatDugasani/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VenkatDugasani/LeetCode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/VenkatDugasani/LeetCode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/VenkatDugasani/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/VenkatDugasani/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/VenkatDugasani/LeetCode/tree/master/0441-arranging-coins) |
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/VenkatDugasani/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/VenkatDugasani/LeetCode/tree/master/0113-path-sum-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VenkatDugasani/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VenkatDugasani/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
