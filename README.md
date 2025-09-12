@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VenkatDugasani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkatDugasani/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/VenkatDugasani/LeetCode/tree/master/0038-count-and-say) |
 | [0800-letter-case-permutation](https://github.com/VenkatDugasani/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0965-unique-email-addresses](https://github.com/VenkatDugasani/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VenkatDugasani/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
