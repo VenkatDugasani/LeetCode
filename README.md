@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/VenkatDugasani/LeetCode/tree/master/0457-circular-array-loop) |
 | [0643-maximum-average-subarray-i](https://github.com/VenkatDugasani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/VenkatDugasani/LeetCode/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/VenkatDugasani/LeetCode/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/VenkatDugasani/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/VenkatDugasani/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VenkatDugasani/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0860-design-circular-queue](https://github.com/VenkatDugasani/LeetCode/tree/master/0860-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -228,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/VenkatDugasani/LeetCode/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/VenkatDugasani/LeetCode/tree/master/0860-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/VenkatDugasani/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
