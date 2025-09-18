@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/VenkatDugasani/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/VenkatDugasani/LeetCode/tree/master/0457-circular-array-loop) |
 | [0643-maximum-average-subarray-i](https://github.com/VenkatDugasani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/VenkatDugasani/LeetCode/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/VenkatDugasani/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/VenkatDugasani/LeetCode/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/VenkatDugasani/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -219,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/VenkatDugasani/LeetCode/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/VenkatDugasani/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/VenkatDugasani/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
