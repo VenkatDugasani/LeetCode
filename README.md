@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VenkatDugasani/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0860-design-circular-queue](https://github.com/VenkatDugasani/LeetCode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/VenkatDugasani/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -238,4 +239,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/VenkatDugasani/LeetCode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/VenkatDugasani/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/VenkatDugasani/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
