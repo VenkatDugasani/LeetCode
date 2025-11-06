@@ -1,45 +1,40 @@
 class Solution {
     public int search(int[] nums, int target) {
-        if(nums.length == 1){
-            if(target == nums[0]){
-                return 0;
-            }
+        int s = 0;
+        int e = nums.length -1;
+        int n = nums.length;
+        int r = 0;
+        if(n == 0) return 0;
+        if(n == 1)
+        {
+            if(nums[0] == target) return 0;
+            return -1;
+        }
+        if(target == nums[n-1])
+        return n-1;
+        if(target < nums[n-1])
+        r = 2;
+        if(target > nums[n-1])
+        r = 1;
+        while(s <= e)
+        {
+            int mid = s + (e-s)/2;
+            if(target == nums[mid] ) return mid;
+            if(nums[mid] <= nums[n-1])
+            {
+                if(target < nums[mid] || r == 1)
+                e = mid - 1;
+                
+                else s = mid + 1;
+            } 
             else{
-                return -1;
+                if(target > nums[mid] || r == 2)
+                s = mid + 1;
+                else e = mid - 1;
+
             }
+            
         }
-        int start = 0;
-        int end = nums.length - 1;
-        int last = nums.length - 1;
-        String region = "green";
-        if(target == nums[last]){
-            return last;
-        }
-        else if(target < nums[last]){
-            region = "orange";
-        }
-        while(start <= end){
-            int mid = start + (end - start) / 2;
-            if(target == nums[mid]){
-                return mid;
-            }
-            if(nums[mid] <= nums[last]){
-                if(target < nums[mid] || region ==  "green"){
-                    end = mid - 1;
-                }
-                else{
-                    start = mid + 1;
-                }
-            }
-            else{
-                if(target > nums[mid] || region == "orange"){
-                    start = mid + 1;
-                }
-                else{
-                    end = mid - 1;
-                }
-            }
-        }
-    return -1;
+        return -1;
     }
 }
