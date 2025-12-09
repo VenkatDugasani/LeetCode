@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VenkatDugasani/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/VenkatDugasani/LeetCode/tree/master/0112-path-sum) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/VenkatDugasani/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0785-is-graph-bipartite](https://github.com/VenkatDugasani/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/VenkatDugasani/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/VenkatDugasani/LeetCode/tree/master/0113-path-sum-ii) |
+| [0785-is-graph-bipartite](https://github.com/VenkatDugasani/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Enumeration
 |  |
 | ------- |
@@ -244,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/VenkatDugasani/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Union Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/VenkatDugasani/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/VenkatDugasani/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
